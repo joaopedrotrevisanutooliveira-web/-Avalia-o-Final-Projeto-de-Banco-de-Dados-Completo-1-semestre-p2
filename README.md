@@ -170,10 +170,43 @@ Com esse banco de dados, a clínica ganha:
 
 Rapidez na busca de informações
 
-Segurança nos dados
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f59fe6e7-c434-410b-a7f3-3230ed14e576" />
 
-Histórico completo dos animais
+<img width="1102" height="552" alt="image" src="https://github.com/user-attachments/assets/c594f6d3-dca3-43d8-ae5a-1d5fa2d9f017" />
 
-Controle dos serviços prestados
+<img width="996" height="662" alt="image" src="https://github.com/user-attachments/assets/28805c13-7b2a-47b0-9949-76162c930dfd" />
 
-Organização dos profissionais e seus atendimentos
+<img width="1452" height="703" alt="image" src="https://github.com/user-attachments/assets/b4b03d8a-0fde-41bb-88fa-b5aeda74d496" />
+
+<img width="1450" height="647" alt="image" src="https://github.com/user-attachments/assets/6be071a2-42d9-4be7-959c-c655f99a9f26" />
+
+<img width="1447" height="682" alt="image" src="https://github.com/user-attachments/assets/42fedf71-5f02-4a53-bf58-96adcb2d577a" />
+
+<img width="1418" height="676" alt="image" src="https://github.com/user-attachments/assets/dd01efad-1012-4d01-ac95-c7ecdbef92af" />
+
+<img width="872" height="726" alt="image" src="https://github.com/user-attachments/assets/1f40223d-74ca-49f9-8d81-debbca3ad6d3" />
+
+<img width="727" height="703" alt="image" src="https://github.com/user-attachments/assets/0953de27-8bc1-44c0-b62f-56dbc979f3fd" />
+
+<img width="846" height="683" alt="image" src="https://github.com/user-attachments/assets/cf5f5aa8-799f-44cc-9cab-d224d181854a" />
+
+<img width="1008" height="716" alt="image" src="https://github.com/user-attachments/assets/c3e6f384-8d13-4b21-bfaf-6cee77f70d01" />
+
+<img width="980" height="717" alt="image" src="https://github.com/user-attachments/assets/e1157c0c-4033-4329-9186-b145e050dbf8" />
+
+<img width="1430" height="718" alt="image" src="https://github.com/user-attachments/assets/181c0669-85e7-4162-adb3-342d562a6bfd" />
+
+<img width="1430" height="718" alt="image" src="https://github.com/user-attachments/assets/36746ec7-0eac-4d1a-9a17-4d3c72e4331d" />
+
+<img width="917" height="712" alt="image" src="https://github.com/user-attachments/assets/9d499b6f-7825-4288-b6e8-5462c2844932" />
+
+<img width="917" height="712" alt="image" src="https://github.com/user-attachments/assets/f93888e6-76d6-4f61-8fc0-5c71018d8633" />
+
+<img width="917" height="712" alt="image" src="https://github.com/user-attachments/assets/def838da-0361-4a20-b883-0008ac070cd5" />
+
+<img width="787" height="727" alt="image" src="https://github.com/user-attachments/assets/55b5e67f-e053-4822-ab7a-174569486d19" />
+
+<img width="772" height="523" alt="image" src="https://github.com/user-attachments/assets/eed87ca3-8edc-4f4e-9937-3dfab34a6b99" />
+
+<img width="817" height="693" alt="image" src="https://github.com/user-attachments/assets/1ab7adff-48c6-4359-994d-ee2086f3824b" />
+
