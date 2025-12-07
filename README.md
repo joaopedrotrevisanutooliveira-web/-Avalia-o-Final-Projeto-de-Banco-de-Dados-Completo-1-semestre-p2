@@ -174,6 +174,8 @@ Rapidez na busca de informações
 
 <img width="1102" height="552" alt="image" src="https://github.com/user-attachments/assets/c594f6d3-dca3-43d8-ae5a-1d5fa2d9f017" />
 
+----------Crud----------
+
 <img width="996" height="662" alt="image" src="https://github.com/user-attachments/assets/28805c13-7b2a-47b0-9949-76162c930dfd" />
 
 <img width="1452" height="703" alt="image" src="https://github.com/user-attachments/assets/b4b03d8a-0fde-41bb-88fa-b5aeda74d496" />
@@ -185,6 +187,8 @@ Rapidez na busca de informações
 <img width="1418" height="676" alt="image" src="https://github.com/user-attachments/assets/dd01efad-1012-4d01-ac95-c7ecdbef92af" />
 
 <img width="872" height="726" alt="image" src="https://github.com/user-attachments/assets/1f40223d-74ca-49f9-8d81-debbca3ad6d3" />
+
+----------Relatórios--------
 
 <img width="727" height="703" alt="image" src="https://github.com/user-attachments/assets/0953de27-8bc1-44c0-b62f-56dbc979f3fd" />
 
