@@ -170,7 +170,11 @@ Com esse banco de dados, a clínica ganha:
 
 Rapidez na busca de informações
 
+2. 📐 Modelagem Conceitual
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f59fe6e7-c434-410b-a7f3-3230ed14e576" />
+
+3. 🧮 Modelagem Lógica
 
 <img width="1102" height="552" alt="image" src="https://github.com/user-attachments/assets/c594f6d3-dca3-43d8-ae5a-1d5fa2d9f017" />
 
