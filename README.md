@@ -213,10 +213,3 @@ Rapidez na busca de informações
 <img width="772" height="523" alt="image" src="https://github.com/user-attachments/assets/fb6e1023-e63c-4bc2-a442-fbccfc7829f5" />
 
 <img width="817" height="693" alt="image" src="https://github.com/user-attachments/assets/d9b47bb9-eeba-4721-8ceb-097bfee6bc44" />
-
-
-
-
-
-
-
